@@ -100,6 +100,7 @@ inspect_attributes = {
     # simprocedure
     'simprocedure_name',
     'simprocedure_addr',
+    'simprocedure',
 
     # engine_process
     'sim_engine',
